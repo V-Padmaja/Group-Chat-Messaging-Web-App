@@ -1,1 +1,1 @@
-# Simple-Chat-Messaging-Web-App-using-Reactjs
+# Simple-Chat-Messaging-Web app
